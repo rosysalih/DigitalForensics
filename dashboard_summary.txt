@@ -1,0 +1,33 @@
+Evidence: evidence.log
+Total log entries: 2000
+Possible break-in warning: 85
+Invalid username: 113
+Failed login: 520
+Successful login: 1
+
+Timeline records: 719
+
+FLAGGED IP ADDRESSES (5+ failed records)
+183.62.140.253: 286
+187.141.143.180: 80
+103.99.0.122: 46
+112.95.230.3: 26
+5.188.10.180: 17
+185.190.58.151: 17
+123.235.32.19: 7
+119.4.203.64: 6
+52.80.34.196: 5
+60.2.12.12: 5
+
+TOP TARGETED USERNAMES
+root: 370
+admin: 44
+support: 6
+oracle: 6
+uucp: 5
+
+Original SHA-256: 1e4912727fa88245113d41b16a0cd25ceadba7f931e1c406542885b91254264f
+Final SHA-256: 1e4912727fa88245113d41b16a0cd25ceadba7f931e1c406542885b91254264f
+Verified: evidence unchanged
+
+Repeated-message summaries count as one record. Flags suggest possible brute force, not confirmed compromise.
